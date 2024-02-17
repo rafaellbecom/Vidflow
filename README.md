@@ -1,6 +1,6 @@
 # VidFlow
 ## :book: Sobre:
-Projeto de Reproduto de Vídeo com foco no estudo de conceitos do JavaScript como:
+Projeto de Reprodutor de Vídeo com foco no estudo de conceitos do JavaScript como:
  - Criação e consumo de uma API REST;
  - Promises;
  - Callback;
